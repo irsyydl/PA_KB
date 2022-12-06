@@ -1,9 +1,7 @@
 # Projek Akhir Kecerdasan Buatan
-***
 ## Kelompok 8 A2'21
 - Muh. Hafiz        (2109106045)
 - M. Irsyadul A. H  (2109106047)
-***
 ## Projek
 Klasifikasi Gambar Mobil dan Motor <br>
 Link Dataset : https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset <br>
