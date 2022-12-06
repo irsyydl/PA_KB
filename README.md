@@ -1,5 +1,4 @@
 # Projek Akhir Kecerdasan Buatan
-Klasifikasi Gambar Motor dan Mobil
 ---
 ## Kelompok 8 A2'21
 - Muh. Hafiz        (2109106045)
