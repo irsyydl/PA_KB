@@ -8,6 +8,8 @@
 - Preprocessing (M. Irsyadul A. H)
 - Modelling (Muh. Hafiz)
 - Evaluasi (M. Irsyadul A. H)
+***
 ## Projek
 Klasifikasi Gambar Mobil dan Motor <br>
 Link Dataset : https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset <br>
+Dataset memiliki 2 folder (Bike dan Car) masing masing folder memiliki 2000 gambar
