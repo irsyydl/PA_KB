@@ -6,6 +6,4 @@
 ***
 ## Projek
 Klasifikasi Gambar Mobil dan Motor <br>
-***
-## Car and Bike Image Classification
 Link Dataset : https://www.kaggle.com/datasets/utkarshsaxenadn/car-vs-bike-classification-dataset <br>
